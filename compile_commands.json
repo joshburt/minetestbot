@@ -1,0 +1,1127 @@
+[
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/client/clientlauncher.cpp.o -c /Workbench/Repositories/minetest/src/client/clientlauncher.cpp",
+  "file": "/Workbench/Repositories/minetest/src/client/clientlauncher.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/client/tile.cpp.o -c /Workbench/Repositories/minetest/src/client/tile.cpp",
+  "file": "/Workbench/Repositories/minetest/src/client/tile.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/network/clientopcodes.cpp.o -c /Workbench/Repositories/minetest/src/network/clientopcodes.cpp",
+  "file": "/Workbench/Repositories/minetest/src/network/clientopcodes.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/network/clientpackethandler.cpp.o -c /Workbench/Repositories/minetest/src/network/clientpackethandler.cpp",
+  "file": "/Workbench/Repositories/minetest/src/network/clientpackethandler.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/network/connection.cpp.o -c /Workbench/Repositories/minetest/src/network/connection.cpp",
+  "file": "/Workbench/Repositories/minetest/src/network/connection.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/network/networkpacket.cpp.o -c /Workbench/Repositories/minetest/src/network/networkpacket.cpp",
+  "file": "/Workbench/Repositories/minetest/src/network/networkpacket.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/network/serveropcodes.cpp.o -c /Workbench/Repositories/minetest/src/network/serveropcodes.cpp",
+  "file": "/Workbench/Repositories/minetest/src/network/serveropcodes.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/network/serverpackethandler.cpp.o -c /Workbench/Repositories/minetest/src/network/serverpackethandler.cpp",
+  "file": "/Workbench/Repositories/minetest/src/network/serverpackethandler.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/common/c_content.cpp.o -c /Workbench/Repositories/minetest/src/script/common/c_content.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/common/c_content.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/common/c_converter.cpp.o -c /Workbench/Repositories/minetest/src/script/common/c_converter.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/common/c_converter.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/common/c_internal.cpp.o -c /Workbench/Repositories/minetest/src/script/common/c_internal.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/common/c_internal.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/common/c_types.cpp.o -c /Workbench/Repositories/minetest/src/script/common/c_types.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/common/c_types.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/cpp_api/s_async.cpp.o -c /Workbench/Repositories/minetest/src/script/cpp_api/s_async.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/cpp_api/s_async.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/cpp_api/s_base.cpp.o -c /Workbench/Repositories/minetest/src/script/cpp_api/s_base.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/cpp_api/s_base.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/cpp_api/s_entity.cpp.o -c /Workbench/Repositories/minetest/src/script/cpp_api/s_entity.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/cpp_api/s_entity.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/cpp_api/s_env.cpp.o -c /Workbench/Repositories/minetest/src/script/cpp_api/s_env.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/cpp_api/s_env.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/cpp_api/s_inventory.cpp.o -c /Workbench/Repositories/minetest/src/script/cpp_api/s_inventory.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/cpp_api/s_inventory.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/cpp_api/s_item.cpp.o -c /Workbench/Repositories/minetest/src/script/cpp_api/s_item.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/cpp_api/s_item.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/cpp_api/s_mainmenu.cpp.o -c /Workbench/Repositories/minetest/src/script/cpp_api/s_mainmenu.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/cpp_api/s_mainmenu.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/cpp_api/s_node.cpp.o -c /Workbench/Repositories/minetest/src/script/cpp_api/s_node.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/cpp_api/s_node.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/cpp_api/s_nodemeta.cpp.o -c /Workbench/Repositories/minetest/src/script/cpp_api/s_nodemeta.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/cpp_api/s_nodemeta.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/cpp_api/s_player.cpp.o -c /Workbench/Repositories/minetest/src/script/cpp_api/s_player.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/cpp_api/s_player.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/cpp_api/s_security.cpp.o -c /Workbench/Repositories/minetest/src/script/cpp_api/s_security.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/cpp_api/s_security.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/cpp_api/s_server.cpp.o -c /Workbench/Repositories/minetest/src/script/cpp_api/s_server.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/cpp_api/s_server.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_areastore.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_areastore.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_areastore.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_base.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_base.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_base.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_craft.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_craft.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_craft.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_env.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_env.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_env.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_inventory.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_inventory.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_inventory.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_item.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_item.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_item.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_mainmenu.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_mainmenu.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_mainmenu.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_mapgen.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_mapgen.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_mapgen.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_nodemeta.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_nodemeta.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_nodemeta.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_nodetimer.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_nodetimer.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_nodetimer.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_noise.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_noise.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_noise.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_object.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_object.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_object.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_particles.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_particles.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_particles.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_rollback.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_rollback.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_rollback.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_server.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_server.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_server.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_settings.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_settings.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_settings.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_util.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_util.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_util.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/lua_api/l_vmanip.cpp.o -c /Workbench/Repositories/minetest/src/script/lua_api/l_vmanip.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/lua_api/l_vmanip.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/scripting_game.cpp.o -c /Workbench/Repositories/minetest/src/script/scripting_game.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/scripting_game.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/script/scripting_mainmenu.cpp.o -c /Workbench/Repositories/minetest/src/script/scripting_mainmenu.cpp",
+  "file": "/Workbench/Repositories/minetest/src/script/scripting_mainmenu.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/threading/event.cpp.o -c /Workbench/Repositories/minetest/src/threading/event.cpp",
+  "file": "/Workbench/Repositories/minetest/src/threading/event.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/threading/mutex.cpp.o -c /Workbench/Repositories/minetest/src/threading/mutex.cpp",
+  "file": "/Workbench/Repositories/minetest/src/threading/mutex.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/threading/semaphore.cpp.o -c /Workbench/Repositories/minetest/src/threading/semaphore.cpp",
+  "file": "/Workbench/Repositories/minetest/src/threading/semaphore.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/threading/thread.cpp.o -c /Workbench/Repositories/minetest/src/threading/thread.cpp",
+  "file": "/Workbench/Repositories/minetest/src/threading/thread.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_areastore.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_areastore.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_areastore.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_collision.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_collision.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_collision.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_compression.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_compression.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_compression.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_connection.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_connection.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_connection.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_filepath.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_filepath.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_filepath.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_inventory.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_inventory.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_inventory.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_mapnode.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_mapnode.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_mapnode.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_nodedef.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_nodedef.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_nodedef.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_noderesolver.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_noderesolver.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_noderesolver.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_noise.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_noise.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_noise.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_objdef.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_objdef.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_objdef.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_profiler.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_profiler.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_profiler.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_random.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_random.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_random.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_schematic.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_schematic.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_schematic.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_serialization.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_serialization.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_serialization.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_settings.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_settings.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_settings.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_socket.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_socket.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_socket.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_threading.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_threading.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_threading.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_utilities.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_utilities.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_utilities.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_voxelalgorithms.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_voxelalgorithms.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_voxelalgorithms.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/unittest/test_voxelmanipulator.cpp.o -c /Workbench/Repositories/minetest/src/unittest/test_voxelmanipulator.cpp",
+  "file": "/Workbench/Repositories/minetest/src/unittest/test_voxelmanipulator.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/util/auth.cpp.o -c /Workbench/Repositories/minetest/src/util/auth.cpp",
+  "file": "/Workbench/Repositories/minetest/src/util/auth.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/util/base64.cpp.o -c /Workbench/Repositories/minetest/src/util/base64.cpp",
+  "file": "/Workbench/Repositories/minetest/src/util/base64.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/util/directiontables.cpp.o -c /Workbench/Repositories/minetest/src/util/directiontables.cpp",
+  "file": "/Workbench/Repositories/minetest/src/util/directiontables.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/util/numeric.cpp.o -c /Workbench/Repositories/minetest/src/util/numeric.cpp",
+  "file": "/Workbench/Repositories/minetest/src/util/numeric.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/util/pointedthing.cpp.o -c /Workbench/Repositories/minetest/src/util/pointedthing.cpp",
+  "file": "/Workbench/Repositories/minetest/src/util/pointedthing.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/util/serialize.cpp.o -c /Workbench/Repositories/minetest/src/util/serialize.cpp",
+  "file": "/Workbench/Repositories/minetest/src/util/serialize.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/util/sha1.cpp.o -c /Workbench/Repositories/minetest/src/util/sha1.cpp",
+  "file": "/Workbench/Repositories/minetest/src/util/sha1.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/gcc  -DUSE_CMAKE_CONFIG_H -g3 -gdwarf-2 -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/util/sha256.c.o   -c /Workbench/Repositories/minetest/src/util/sha256.c",
+  "file": "/Workbench/Repositories/minetest/src/util/sha256.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/util/srp.cpp.o -c /Workbench/Repositories/minetest/src/util/srp.cpp",
+  "file": "/Workbench/Repositories/minetest/src/util/srp.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/util/string.cpp.o -c /Workbench/Repositories/minetest/src/util/string.cpp",
+  "file": "/Workbench/Repositories/minetest/src/util/string.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/util/timetaker.cpp.o -c /Workbench/Repositories/minetest/src/util/timetaker.cpp",
+  "file": "/Workbench/Repositories/minetest/src/util/timetaker.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/areastore.cpp.o -c /Workbench/Repositories/minetest/src/areastore.cpp",
+  "file": "/Workbench/Repositories/minetest/src/areastore.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/ban.cpp.o -c /Workbench/Repositories/minetest/src/ban.cpp",
+  "file": "/Workbench/Repositories/minetest/src/ban.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/camera.cpp.o -c /Workbench/Repositories/minetest/src/camera.cpp",
+  "file": "/Workbench/Repositories/minetest/src/camera.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/cavegen.cpp.o -c /Workbench/Repositories/minetest/src/cavegen.cpp",
+  "file": "/Workbench/Repositories/minetest/src/cavegen.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/chat.cpp.o -c /Workbench/Repositories/minetest/src/chat.cpp",
+  "file": "/Workbench/Repositories/minetest/src/chat.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/client.cpp.o -c /Workbench/Repositories/minetest/src/client.cpp",
+  "file": "/Workbench/Repositories/minetest/src/client.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/clientiface.cpp.o -c /Workbench/Repositories/minetest/src/clientiface.cpp",
+  "file": "/Workbench/Repositories/minetest/src/clientiface.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/clientmap.cpp.o -c /Workbench/Repositories/minetest/src/clientmap.cpp",
+  "file": "/Workbench/Repositories/minetest/src/clientmap.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/clientmedia.cpp.o -c /Workbench/Repositories/minetest/src/clientmedia.cpp",
+  "file": "/Workbench/Repositories/minetest/src/clientmedia.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/clientobject.cpp.o -c /Workbench/Repositories/minetest/src/clientobject.cpp",
+  "file": "/Workbench/Repositories/minetest/src/clientobject.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/clouds.cpp.o -c /Workbench/Repositories/minetest/src/clouds.cpp",
+  "file": "/Workbench/Repositories/minetest/src/clouds.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/collision.cpp.o -c /Workbench/Repositories/minetest/src/collision.cpp",
+  "file": "/Workbench/Repositories/minetest/src/collision.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/content_abm.cpp.o -c /Workbench/Repositories/minetest/src/content_abm.cpp",
+  "file": "/Workbench/Repositories/minetest/src/content_abm.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/content_cao.cpp.o -c /Workbench/Repositories/minetest/src/content_cao.cpp",
+  "file": "/Workbench/Repositories/minetest/src/content_cao.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/content_cso.cpp.o -c /Workbench/Repositories/minetest/src/content_cso.cpp",
+  "file": "/Workbench/Repositories/minetest/src/content_cso.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/content_mapblock.cpp.o -c /Workbench/Repositories/minetest/src/content_mapblock.cpp",
+  "file": "/Workbench/Repositories/minetest/src/content_mapblock.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/content_mapnode.cpp.o -c /Workbench/Repositories/minetest/src/content_mapnode.cpp",
+  "file": "/Workbench/Repositories/minetest/src/content_mapnode.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/content_nodemeta.cpp.o -c /Workbench/Repositories/minetest/src/content_nodemeta.cpp",
+  "file": "/Workbench/Repositories/minetest/src/content_nodemeta.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/content_sao.cpp.o -c /Workbench/Repositories/minetest/src/content_sao.cpp",
+  "file": "/Workbench/Repositories/minetest/src/content_sao.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/convert_json.cpp.o -c /Workbench/Repositories/minetest/src/convert_json.cpp",
+  "file": "/Workbench/Repositories/minetest/src/convert_json.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/craftdef.cpp.o -c /Workbench/Repositories/minetest/src/craftdef.cpp",
+  "file": "/Workbench/Repositories/minetest/src/craftdef.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/database-dummy.cpp.o -c /Workbench/Repositories/minetest/src/database-dummy.cpp",
+  "file": "/Workbench/Repositories/minetest/src/database-dummy.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/database-leveldb.cpp.o -c /Workbench/Repositories/minetest/src/database-leveldb.cpp",
+  "file": "/Workbench/Repositories/minetest/src/database-leveldb.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/database-redis.cpp.o -c /Workbench/Repositories/minetest/src/database-redis.cpp",
+  "file": "/Workbench/Repositories/minetest/src/database-redis.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/database-sqlite3.cpp.o -c /Workbench/Repositories/minetest/src/database-sqlite3.cpp",
+  "file": "/Workbench/Repositories/minetest/src/database-sqlite3.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/database.cpp.o -c /Workbench/Repositories/minetest/src/database.cpp",
+  "file": "/Workbench/Repositories/minetest/src/database.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/debug.cpp.o -c /Workbench/Repositories/minetest/src/debug.cpp",
+  "file": "/Workbench/Repositories/minetest/src/debug.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/defaultsettings.cpp.o -c /Workbench/Repositories/minetest/src/defaultsettings.cpp",
+  "file": "/Workbench/Repositories/minetest/src/defaultsettings.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/drawscene.cpp.o -c /Workbench/Repositories/minetest/src/drawscene.cpp",
+  "file": "/Workbench/Repositories/minetest/src/drawscene.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/dungeongen.cpp.o -c /Workbench/Repositories/minetest/src/dungeongen.cpp",
+  "file": "/Workbench/Repositories/minetest/src/dungeongen.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/emerge.cpp.o -c /Workbench/Repositories/minetest/src/emerge.cpp",
+  "file": "/Workbench/Repositories/minetest/src/emerge.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/environment.cpp.o -c /Workbench/Repositories/minetest/src/environment.cpp",
+  "file": "/Workbench/Repositories/minetest/src/environment.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/filecache.cpp.o -c /Workbench/Repositories/minetest/src/filecache.cpp",
+  "file": "/Workbench/Repositories/minetest/src/filecache.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/filesys.cpp.o -c /Workbench/Repositories/minetest/src/filesys.cpp",
+  "file": "/Workbench/Repositories/minetest/src/filesys.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/fontengine.cpp.o -c /Workbench/Repositories/minetest/src/fontengine.cpp",
+  "file": "/Workbench/Repositories/minetest/src/fontengine.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/game.cpp.o -c /Workbench/Repositories/minetest/src/game.cpp",
+  "file": "/Workbench/Repositories/minetest/src/game.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/genericobject.cpp.o -c /Workbench/Repositories/minetest/src/genericobject.cpp",
+  "file": "/Workbench/Repositories/minetest/src/genericobject.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/gettext.cpp.o -c /Workbench/Repositories/minetest/src/gettext.cpp",
+  "file": "/Workbench/Repositories/minetest/src/gettext.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/guiChatConsole.cpp.o -c /Workbench/Repositories/minetest/src/guiChatConsole.cpp",
+  "file": "/Workbench/Repositories/minetest/src/guiChatConsole.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/guiEngine.cpp.o -c /Workbench/Repositories/minetest/src/guiEngine.cpp",
+  "file": "/Workbench/Repositories/minetest/src/guiEngine.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/guiFileSelectMenu.cpp.o -c /Workbench/Repositories/minetest/src/guiFileSelectMenu.cpp",
+  "file": "/Workbench/Repositories/minetest/src/guiFileSelectMenu.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/guiFormSpecMenu.cpp.o -c /Workbench/Repositories/minetest/src/guiFormSpecMenu.cpp",
+  "file": "/Workbench/Repositories/minetest/src/guiFormSpecMenu.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/guiKeyChangeMenu.cpp.o -c /Workbench/Repositories/minetest/src/guiKeyChangeMenu.cpp",
+  "file": "/Workbench/Repositories/minetest/src/guiKeyChangeMenu.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/guiPasswordChange.cpp.o -c /Workbench/Repositories/minetest/src/guiPasswordChange.cpp",
+  "file": "/Workbench/Repositories/minetest/src/guiPasswordChange.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/guiTable.cpp.o -c /Workbench/Repositories/minetest/src/guiTable.cpp",
+  "file": "/Workbench/Repositories/minetest/src/guiTable.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/guiVolumeChange.cpp.o -c /Workbench/Repositories/minetest/src/guiVolumeChange.cpp",
+  "file": "/Workbench/Repositories/minetest/src/guiVolumeChange.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/guiscalingfilter.cpp.o -c /Workbench/Repositories/minetest/src/guiscalingfilter.cpp",
+  "file": "/Workbench/Repositories/minetest/src/guiscalingfilter.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/httpfetch.cpp.o -c /Workbench/Repositories/minetest/src/httpfetch.cpp",
+  "file": "/Workbench/Repositories/minetest/src/httpfetch.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/hud.cpp.o -c /Workbench/Repositories/minetest/src/hud.cpp",
+  "file": "/Workbench/Repositories/minetest/src/hud.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/imagefilters.cpp.o -c /Workbench/Repositories/minetest/src/imagefilters.cpp",
+  "file": "/Workbench/Repositories/minetest/src/imagefilters.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/intlGUIEditBox.cpp.o -c /Workbench/Repositories/minetest/src/intlGUIEditBox.cpp",
+  "file": "/Workbench/Repositories/minetest/src/intlGUIEditBox.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/inventory.cpp.o -c /Workbench/Repositories/minetest/src/inventory.cpp",
+  "file": "/Workbench/Repositories/minetest/src/inventory.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/inventorymanager.cpp.o -c /Workbench/Repositories/minetest/src/inventorymanager.cpp",
+  "file": "/Workbench/Repositories/minetest/src/inventorymanager.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/itemdef.cpp.o -c /Workbench/Repositories/minetest/src/itemdef.cpp",
+  "file": "/Workbench/Repositories/minetest/src/itemdef.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/keycode.cpp.o -c /Workbench/Repositories/minetest/src/keycode.cpp",
+  "file": "/Workbench/Repositories/minetest/src/keycode.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/light.cpp.o -c /Workbench/Repositories/minetest/src/light.cpp",
+  "file": "/Workbench/Repositories/minetest/src/light.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/localplayer.cpp.o -c /Workbench/Repositories/minetest/src/localplayer.cpp",
+  "file": "/Workbench/Repositories/minetest/src/localplayer.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/log.cpp.o -c /Workbench/Repositories/minetest/src/log.cpp",
+  "file": "/Workbench/Repositories/minetest/src/log.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/main.cpp.o -c /Workbench/Repositories/minetest/src/main.cpp",
+  "file": "/Workbench/Repositories/minetest/src/main.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/map.cpp.o -c /Workbench/Repositories/minetest/src/map.cpp",
+  "file": "/Workbench/Repositories/minetest/src/map.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mapblock.cpp.o -c /Workbench/Repositories/minetest/src/mapblock.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mapblock.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mapblock_mesh.cpp.o -c /Workbench/Repositories/minetest/src/mapblock_mesh.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mapblock_mesh.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mapgen.cpp.o -c /Workbench/Repositories/minetest/src/mapgen.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mapgen.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mapgen_flat.cpp.o -c /Workbench/Repositories/minetest/src/mapgen_flat.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mapgen_flat.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mapgen_fractal.cpp.o -c /Workbench/Repositories/minetest/src/mapgen_fractal.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mapgen_fractal.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mapgen_singlenode.cpp.o -c /Workbench/Repositories/minetest/src/mapgen_singlenode.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mapgen_singlenode.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mapgen_v5.cpp.o -c /Workbench/Repositories/minetest/src/mapgen_v5.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mapgen_v5.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mapgen_v6.cpp.o -c /Workbench/Repositories/minetest/src/mapgen_v6.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mapgen_v6.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mapgen_v7.cpp.o -c /Workbench/Repositories/minetest/src/mapgen_v7.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mapgen_v7.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mapgen_valleys.cpp.o -c /Workbench/Repositories/minetest/src/mapgen_valleys.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mapgen_valleys.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mapnode.cpp.o -c /Workbench/Repositories/minetest/src/mapnode.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mapnode.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mapsector.cpp.o -c /Workbench/Repositories/minetest/src/mapsector.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mapsector.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mesh.cpp.o -c /Workbench/Repositories/minetest/src/mesh.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mesh.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mg_biome.cpp.o -c /Workbench/Repositories/minetest/src/mg_biome.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mg_biome.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mg_decoration.cpp.o -c /Workbench/Repositories/minetest/src/mg_decoration.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mg_decoration.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mg_ore.cpp.o -c /Workbench/Repositories/minetest/src/mg_ore.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mg_ore.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mg_schematic.cpp.o -c /Workbench/Repositories/minetest/src/mg_schematic.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mg_schematic.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/minimap.cpp.o -c /Workbench/Repositories/minetest/src/minimap.cpp",
+  "file": "/Workbench/Repositories/minetest/src/minimap.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/mods.cpp.o -c /Workbench/Repositories/minetest/src/mods.cpp",
+  "file": "/Workbench/Repositories/minetest/src/mods.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/nameidmapping.cpp.o -c /Workbench/Repositories/minetest/src/nameidmapping.cpp",
+  "file": "/Workbench/Repositories/minetest/src/nameidmapping.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/nodedef.cpp.o -c /Workbench/Repositories/minetest/src/nodedef.cpp",
+  "file": "/Workbench/Repositories/minetest/src/nodedef.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/nodemetadata.cpp.o -c /Workbench/Repositories/minetest/src/nodemetadata.cpp",
+  "file": "/Workbench/Repositories/minetest/src/nodemetadata.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/nodetimer.cpp.o -c /Workbench/Repositories/minetest/src/nodetimer.cpp",
+  "file": "/Workbench/Repositories/minetest/src/nodetimer.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/noise.cpp.o -c /Workbench/Repositories/minetest/src/noise.cpp",
+  "file": "/Workbench/Repositories/minetest/src/noise.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/objdef.cpp.o -c /Workbench/Repositories/minetest/src/objdef.cpp",
+  "file": "/Workbench/Repositories/minetest/src/objdef.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/object_properties.cpp.o -c /Workbench/Repositories/minetest/src/object_properties.cpp",
+  "file": "/Workbench/Repositories/minetest/src/object_properties.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/particles.cpp.o -c /Workbench/Repositories/minetest/src/particles.cpp",
+  "file": "/Workbench/Repositories/minetest/src/particles.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/pathfinder.cpp.o -c /Workbench/Repositories/minetest/src/pathfinder.cpp",
+  "file": "/Workbench/Repositories/minetest/src/pathfinder.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/player.cpp.o -c /Workbench/Repositories/minetest/src/player.cpp",
+  "file": "/Workbench/Repositories/minetest/src/player.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/porting.cpp.o -c /Workbench/Repositories/minetest/src/porting.cpp",
+  "file": "/Workbench/Repositories/minetest/src/porting.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/profiler.cpp.o -c /Workbench/Repositories/minetest/src/profiler.cpp",
+  "file": "/Workbench/Repositories/minetest/src/profiler.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/quicktune.cpp.o -c /Workbench/Repositories/minetest/src/quicktune.cpp",
+  "file": "/Workbench/Repositories/minetest/src/quicktune.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/rollback.cpp.o -c /Workbench/Repositories/minetest/src/rollback.cpp",
+  "file": "/Workbench/Repositories/minetest/src/rollback.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/rollback_interface.cpp.o -c /Workbench/Repositories/minetest/src/rollback_interface.cpp",
+  "file": "/Workbench/Repositories/minetest/src/rollback_interface.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/serialization.cpp.o -c /Workbench/Repositories/minetest/src/serialization.cpp",
+  "file": "/Workbench/Repositories/minetest/src/serialization.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/server.cpp.o -c /Workbench/Repositories/minetest/src/server.cpp",
+  "file": "/Workbench/Repositories/minetest/src/server.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/serverlist.cpp.o -c /Workbench/Repositories/minetest/src/serverlist.cpp",
+  "file": "/Workbench/Repositories/minetest/src/serverlist.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/serverobject.cpp.o -c /Workbench/Repositories/minetest/src/serverobject.cpp",
+  "file": "/Workbench/Repositories/minetest/src/serverobject.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/settings.cpp.o -c /Workbench/Repositories/minetest/src/settings.cpp",
+  "file": "/Workbench/Repositories/minetest/src/settings.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/shader.cpp.o -c /Workbench/Repositories/minetest/src/shader.cpp",
+  "file": "/Workbench/Repositories/minetest/src/shader.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/sky.cpp.o -c /Workbench/Repositories/minetest/src/sky.cpp",
+  "file": "/Workbench/Repositories/minetest/src/sky.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/socket.cpp.o -c /Workbench/Repositories/minetest/src/socket.cpp",
+  "file": "/Workbench/Repositories/minetest/src/socket.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/sound.cpp.o -c /Workbench/Repositories/minetest/src/sound.cpp",
+  "file": "/Workbench/Repositories/minetest/src/sound.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/sound_openal.cpp.o -c /Workbench/Repositories/minetest/src/sound_openal.cpp",
+  "file": "/Workbench/Repositories/minetest/src/sound_openal.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/staticobject.cpp.o -c /Workbench/Repositories/minetest/src/staticobject.cpp",
+  "file": "/Workbench/Repositories/minetest/src/staticobject.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/subgame.cpp.o -c /Workbench/Repositories/minetest/src/subgame.cpp",
+  "file": "/Workbench/Repositories/minetest/src/subgame.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/terminal_chat_console.cpp.o -c /Workbench/Repositories/minetest/src/terminal_chat_console.cpp",
+  "file": "/Workbench/Repositories/minetest/src/terminal_chat_console.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/tool.cpp.o -c /Workbench/Repositories/minetest/src/tool.cpp",
+  "file": "/Workbench/Repositories/minetest/src/tool.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/treegen.cpp.o -c /Workbench/Repositories/minetest/src/treegen.cpp",
+  "file": "/Workbench/Repositories/minetest/src/treegen.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/version.cpp.o -c /Workbench/Repositories/minetest/src/version.cpp",
+  "file": "/Workbench/Repositories/minetest/src/version.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/voxel.cpp.o -c /Workbench/Repositories/minetest/src/voxel.cpp",
+  "file": "/Workbench/Repositories/minetest/src/voxel.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/voxelalgorithms.cpp.o -c /Workbench/Repositories/minetest/src/voxelalgorithms.cpp",
+  "file": "/Workbench/Repositories/minetest/src/voxelalgorithms.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/minetest.dir/wieldmesh.cpp.o -c /Workbench/Repositories/minetest/src/wieldmesh.cpp",
+  "file": "/Workbench/Repositories/minetest/src/wieldmesh.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lapi.o   -c /Workbench/Repositories/minetest/src/lua/src/lapi.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lapi.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lauxlib.o   -c /Workbench/Repositories/minetest/src/lua/src/lauxlib.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lauxlib.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lbaselib.o   -c /Workbench/Repositories/minetest/src/lua/src/lbaselib.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lbaselib.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lcode.o   -c /Workbench/Repositories/minetest/src/lua/src/lcode.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lcode.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/ldblib.o   -c /Workbench/Repositories/minetest/src/lua/src/ldblib.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/ldblib.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/ldebug.o   -c /Workbench/Repositories/minetest/src/lua/src/ldebug.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/ldebug.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/ldo.o   -c /Workbench/Repositories/minetest/src/lua/src/ldo.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/ldo.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/ldump.o   -c /Workbench/Repositories/minetest/src/lua/src/ldump.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/ldump.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lfunc.o   -c /Workbench/Repositories/minetest/src/lua/src/lfunc.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lfunc.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lgc.o   -c /Workbench/Repositories/minetest/src/lua/src/lgc.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lgc.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/linit.o   -c /Workbench/Repositories/minetest/src/lua/src/linit.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/linit.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/liolib.o   -c /Workbench/Repositories/minetest/src/lua/src/liolib.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/liolib.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/llex.o   -c /Workbench/Repositories/minetest/src/lua/src/llex.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/llex.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lmathlib.o   -c /Workbench/Repositories/minetest/src/lua/src/lmathlib.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lmathlib.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lmem.o   -c /Workbench/Repositories/minetest/src/lua/src/lmem.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lmem.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/loadlib.o   -c /Workbench/Repositories/minetest/src/lua/src/loadlib.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/loadlib.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lobject.o   -c /Workbench/Repositories/minetest/src/lua/src/lobject.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lobject.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lopcodes.o   -c /Workbench/Repositories/minetest/src/lua/src/lopcodes.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lopcodes.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/loslib.o   -c /Workbench/Repositories/minetest/src/lua/src/loslib.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/loslib.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lparser.o   -c /Workbench/Repositories/minetest/src/lua/src/lparser.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lparser.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lstate.o   -c /Workbench/Repositories/minetest/src/lua/src/lstate.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lstate.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lstring.o   -c /Workbench/Repositories/minetest/src/lua/src/lstring.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lstring.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lstrlib.o   -c /Workbench/Repositories/minetest/src/lua/src/lstrlib.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lstrlib.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/ltable.o   -c /Workbench/Repositories/minetest/src/lua/src/ltable.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/ltable.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/ltablib.o   -c /Workbench/Repositories/minetest/src/lua/src/ltablib.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/ltablib.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/ltm.o   -c /Workbench/Repositories/minetest/src/lua/src/ltm.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/ltm.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lundump.o   -c /Workbench/Repositories/minetest/src/lua/src/lundump.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lundump.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lvm.o   -c /Workbench/Repositories/minetest/src/lua/src/lvm.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lvm.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/lua/build",
+  "command": "/usr/bin/gcc     -DLUA_USE_DLOPEN -DLUA_USE_POSIX -pipe -Wall -Wextra -Wshadow -W -pedantic -std=gnu99 -g3 -gdwarf-2       -O0 -g -I/Workbench/Repositories/minetest/src/lua/src -I/Workbench/Repositories/minetest/src/lua/build    -o CMakeFiles/lua.dir/lzio.o   -c /Workbench/Repositories/minetest/src/lua/src/lzio.c",
+  "file": "/Workbench/Repositories/minetest/src/lua/src/lzio.c"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/json",
+  "command": "/usr/bin/g++    -g3 -gdwarf-2   -o CMakeFiles/jsoncpp.dir/jsoncpp.cpp.o -c /Workbench/Repositories/minetest/src/json/jsoncpp.cpp",
+  "file": "/Workbench/Repositories/minetest/src/json/jsoncpp.cpp"
+},
+{
+  "directory": "/Workbench/Repositories/minetest/src/cguittfont",
+  "command": "/usr/bin/g++   -DUSE_CMAKE_CONFIG_H -g -O0 -Wall -Wabi   -I/Workbench/Repositories/minetest/src -I/usr/include/irrlicht -I/Workbench/Repositories/minetest/src/Debug -I/usr/include/AL -I/Workbench/Repositories/minetest/src/lua/src -I/usr/include/x86_64-linux-gnu -I/Workbench/Repositories/minetest/src/json -I/Workbench/Repositories/minetest/src/script -I/usr/include/freetype2 -I/usr/include/x86_64-linux-gnu/freetype2 -I/Workbench/Repositories/minetest/src/cguittfont    -o CMakeFiles/cguittfont.dir/xCGUITTFont.cpp.o -c /Workbench/Repositories/minetest/src/cguittfont/xCGUITTFont.cpp",
+  "file": "/Workbench/Repositories/minetest/src/cguittfont/xCGUITTFont.cpp"
+}
+]

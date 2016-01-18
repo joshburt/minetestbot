@@ -21,6 +21,8 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 #define INPUT_HANDLER_H
 
 #include "irrlichttypes_extrabloated.h"
+#include <string.h>
+#include <curl/curl.h>
 
 class MyEventReceiver : public IEventReceiver
 {
@@ -349,6 +351,70 @@ public:
 
 	virtual void step(float dtime)
 	{
+            CURL *curl;
+            CURLcode res;
+
+            curl = curl_easy_init();
+            if(curl) {
+              struct string s;
+              init_string(&s);
+              
+              curl_easy_setopt(curl, CURLOPT_URL, "http://localhost/bot.json");
+              /* example.com is redirected, so we tell libcurl to follow redirection */ 
+              curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);
+              
+              /* perform a get request */
+              curl_easy_setopt(curl, CURLOPT_HTTPGET, 1L);
+              
+              curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, writefunc);
+              curl_easy_setopt(curl, CURLOPT_WRITEDATA, &s);
+    
+              /* Perform the request, res will get the return code */ 
+              res = curl_easy_perform(curl);
+              /* Check for errors */ 
+              if(res != CURLE_OK)
+                fprintf(stderr, "curl_easy_perform() failed: %s\n",
+                        curl_easy_strerror(res));
+              
+              /* always cleanup */ 
+              curl_easy_cleanup(curl);
+              
+              // Now.  Finally.  We Can Process our instructions.
+               printf("%s\n", s.ptr);
+               free(s.ptr);
+            } 
+/*            
+            else {
+                // Couldnt get remote comands, lets performa
+                // random walk
+		{
+			static float counter1 = 0;
+			counter1 -= dtime;
+			if (counter1 < 0.0) {
+				counter1 = 0.1 * Rand(1, 40);
+				keydown.toggle(getKeySetting("keymap_jump"));
+                        }
+		}
+		{
+			static float counter1 = 0;
+			counter1 -= dtime;
+			if (counter1 < 0.0) {
+				counter1 = 0.1 * Rand(1, 40);
+				keydown.toggle(getKeySetting("keymap_forward"));
+			}
+		}              
+                {
+			static float counter1 = 0;
+			counter1 -= dtime;
+			if (counter1 < 0.0) {
+				counter1 = 0.1 * Rand(1, 20);
+				mousespeed = v2s32(Rand(-20, 20), Rand(-15, 20));
+			}
+		}
+                mousepos += mousespeed;
+            }
+*/                
+            /*
 		{
 			static float counter1 = 0;
 			counter1 -= dtime;
@@ -414,8 +480,9 @@ public:
 			}
 		}
 		mousepos += mousespeed;
+            */
 	}
-
+        
 	s32 Rand(s32 min, s32 max)
 	{
 		return (myrand()%(max-min+1))+min;
@@ -430,6 +497,40 @@ private:
 	bool rightclicked;
 	bool leftreleased;
 	bool rightreleased;
+/*
+ String handling code from:
+ * http://stackoverflow.com/questions/2329571/c-libcurl-get-output-into-a-string
+ */
+        struct string {
+          char *ptr;
+          size_t len;
+        };
+
+        void static init_string(struct string *s) {
+          s->len = 0;
+          s->ptr = (char*)malloc(s->len+1);
+          if (s->ptr == NULL) {
+            fprintf(stderr, "malloc() failed\n");
+            exit(EXIT_FAILURE);
+          }
+          s->ptr[0] = '\0';
+        }
+
+        size_t static writefunc(void *ptr, size_t size, size_t nmemb, struct string *s)
+        {
+          size_t new_len = s->len + size*nmemb;
+          s->ptr = (char*)realloc(s->ptr, new_len+1);
+          if (s->ptr == NULL) {
+            fprintf(stderr, "realloc() failed\n");
+            exit(EXIT_FAILURE);
+          }
+          memcpy(s->ptr+s->len, ptr, size*nmemb);
+          s->ptr[new_len] = '\0';
+          s->len = new_len;
+
+          return size*nmemb;
+        }        
+               
 };
 
 #endif
